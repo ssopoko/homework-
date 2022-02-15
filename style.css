@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container {
+	max-width: 1260px;
+	width: 100%;
+	margin: 90px 90px;
+}
+
+h2{
+	font-size:25px;
+	color:#000000;
+}
+body{
+	background-color: #F7F7F7;
+}
+.two-texts{
+	width: 1260px;
+	height: 595px;
+	background-color: #FFFFFF;
+	margin-top: 90px ;
+	padding-right:90px;
+	
+   
+}
+.gray-heading{
+	padding-left:90px;
+	padding-right: 960x;
+}
+.about-tech{
+	padding-top:30px;
+    padding-left:90px;
+    padding-right:180px;
+    color: #434343;
+}
+
+
+.left-text{
+
+	width: 438px;
+	height: 126px;
+	display: inline-block;
+	margin-top: 30px;
+	padding-left: 90px;
+	
+	color: #434343;
+	
+}
+
+.right-text{
+
+	width:  438px;
+	height: 126px;
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 90px;
+	color: #434343;
+	
+
+}
+
+.white-heading1{
+	padding-top:60px;
+	padding-left: 90px;
+	color: #000000;
+	
+
+
+}
+.white-heading2{
+	margin-top: 60px;
+	padding-left: 90px;
+	color: #000000;
+
+
+}
+
+.thefirst{
+	width:  438px;
+	height: 126px;
+	display: inline-block;
+	margin-top: 30px;
+	padding-left: 90px;
+	color:#434343 ;
+	padding-bottom: 90px;
+	
+	
+}
+
+
+.thesecond{
+	width:  438px;
+	height: 126px;
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 90px;
+	color:#434343 ;
+	padding-bottom: 90px;
+	text-align: left;
+	
